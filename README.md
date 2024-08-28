@@ -5,4 +5,4 @@ simple notice board using react
 
 프론트 통신방식 = fetch api
 
-백엔드 프레임워크 = vertx
+백엔드 프레임워크 = vertx ( maven 사용 )
